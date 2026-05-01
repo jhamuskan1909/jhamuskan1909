@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hi, I'm Muskan Jha 👋
 
 CS Student | Python & ML Developer | Open Source Contributor
@@ -23,4 +23,4 @@ CS Student | Python & ML Developer | Open Source Contributor
 ## 📫 Contact
 - GitHub: [@jhamuskan1909](https://github.com/jhamuskan1909)
 - Mail: jhamuskan1909@gmail.com
--->
+
