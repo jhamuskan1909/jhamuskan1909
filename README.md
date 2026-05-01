@@ -1,7 +1,7 @@
 
 # Hi, I'm Muskan Jha 👋
 
-CS Student | Python & ML Developer | Open Source Contributor
+CS Student | Python & ML Developer | Data Analytics
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, HTML, CSS, JavaScript, Java
