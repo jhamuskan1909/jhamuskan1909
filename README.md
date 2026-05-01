@@ -4,7 +4,7 @@
 CS Student | Python & ML Developer | Open Source Contributor
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, HTML, CSS, JavaScript
+- **Languages:** Python, HTML, CSS, JavaScript, Java
 - **Frameworks:** Flask
 - **ML:** scikit-learn, KNN, Random Forest
 - **Database:** MongoDB Atlas
