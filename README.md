@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 # Hi, I'm Muskan Jha 👋
 
@@ -17,7 +15,7 @@ CS Student | Python & ML Developer | Open Source Contributor
 - [Phishing Link Detector](https://github.com/jhamuskan1909/Phishing-Link-Detector) — ML-based phishing URL detector
 
 ## 📈 Currently
-- Contributing to open source via GSSoC 2026
+- Exploring open source contributions
 - Building AI-powered web applications
 
 ## 📫 Contact
